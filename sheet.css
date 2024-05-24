@@ -44,7 +44,7 @@ body td , th{
 }
 table{
     border-top: 2px solid black;
-    margin: 20px 0px 10px 40px;
+    margin: 20px 0px 10px 120px;
     text-align: center;
 }
 @media (max-width: 576px){
@@ -70,7 +70,7 @@ table{
         padding: 0px;
     }
     .price input{
-        width: 40%;
+        width: 43%;
         margin: 5px 3px 0px 15px;
         padding: 10px;
     }
